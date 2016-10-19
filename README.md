@@ -4,72 +4,72 @@
 ## GitHub：
 ### Apple/Swift/iOS
 #### Apple官方
-https://github.com/apple/swift.git
-https://github.com/apple/swift-package-manager.git
-https://github.com/apple/swift-evolution.git
-https://github.com/apple/swift-protobuf.git
-https://github.com/apple/swift-3-api-guidelines-review.git
+https://github.com/apple/swift.git<br>
+https://github.com/apple/swift-package-manager.git<br>
+https://github.com/apple/swift-evolution.git<br>
+https://github.com/apple/swift-protobuf.git<br>
+https://github.com/apple/swift-3-api-guidelines-review.git<br>
 
 #### 第三方Framework
-ExSwift
-https://github.com/ayn/ExSwift.git
-https://github.com/pNre/ExSwift.git
-SwiftMath
-https://github.com/madbat/SwiftMath.git
-SwiftyJSON
-https://github.com/SwiftyJSON/SwiftyJSON.git
-SwiftFilePath
-https://github.com/nori0620/SwiftFilePath.git
-FileKit
-https://github.com/nvzqz/FileKit.git
-SpriteKit-Spring
-https://github.com/ataugeron/SpriteKit-Spring.git
-ImagePixelFun
-https://github.com/wddwycc/ImagePixelFun.git
-GPUImage
-https://github.com/BradLarson/GPUImage.git
-Easy-Game-Center
-https://github.com/YannickSteph/Easy-Game-Center-Swift.git
-Reachability.swift
-https://github.com/ashleymills/Reachability.swift.git
-Kingfisher(A lightweight, pure-Swift library for downloading and caching images from the web.)
-https://github.com/onevcat/Kingfisher.git
-The Amazing Audio Engine(OC)
-https://github.com/TheAmazingAudioEngine/TheAmazingAudioEngine.git
-XMPPFramework(OC)
+##### ExSwift
+https://github.com/ayn/ExSwift.git<br>
+https://github.com/pNre/ExSwift.git<br>
+##### SwiftMath
+https://github.com/madbat/SwiftMath.git<br>
+##### SwiftyJSON
+https://github.com/SwiftyJSON/SwiftyJSON.git<br>
+##### SwiftFilePath
+https://github.com/nori0620/SwiftFilePath.git<br>
+##### FileKit
+https://github.com/nvzqz/FileKit.git<br>
+##### SpriteKit-Spring
+https://github.com/ataugeron/SpriteKit-Spring.git<br>
+##### ImagePixelFun
+https://github.com/wddwycc/ImagePixelFun.git<br>
+##### GPUImage
+https://github.com/BradLarson/GPUImage.git<br>
+##### Easy-Game-Center
+https://github.com/YannickSteph/Easy-Game-Center-Swift.git<br>
+##### Reachability.swift
+https://github.com/ashleymills/Reachability.swift.git<br>
+##### Kingfisher(A lightweight, pure-Swift library for downloading and caching images from the web.)
+https://github.com/onevcat/Kingfisher.git<br>
+##### The Amazing Audio Engine(OC)
+https://github.com/TheAmazingAudioEngine/TheAmazingAudioEngine.git<br>
+##### XMPPFramework(OC)
 An XMPP Framework in Objective-C for Mac and iOS
-https://github.com/robbiehanson/XMPPFramework.git
+https://github.com/robbiehanson/XMPPFramework.git<br>
 
 #### 其它
-the-swift-programming-language-in-chinese
-https://github.com/numbbbbb/the-swift-programming-language-in-chinese
-KongfuPanda(swift语言写得一个熊猫跑酷游戏)
-https://github.com/jakciehoo/KongfuPanda.git
-ThreeMatchSprite(A simple three match game on the SpriteKit)
-https://github.com/lsdimagine/ThreeMatchSprite.git
+##### the-swift-programming-language-in-chinese
+https://github.com/numbbbbb/the-swift-programming-language-in-chinese.git<br>
+##### KongfuPanda(swift语言写得一个熊猫跑酷游戏)
+https://github.com/jakciehoo/KongfuPanda.git<br>
+##### ThreeMatchSprite(A simple three match game on the SpriteKit)
+https://github.com/lsdimagine/ThreeMatchSprite.git<br>
 
 ### Microsoft
-https://github.com/Microsoft/TypeScript.git
-https://github.com/Microsoft/TypeScript-Handbook.git
+https://github.com/Microsoft/TypeScript.git<br>
+https://github.com/Microsoft/TypeScript-Handbook.git<br>
 
 ### HTML5/TypeScript
-egret-labs(egret官方)
-https://github.com/egret-labs/egret-core.git
-https://github.com/egret-labs/egret-game-library.git
-https://github.com/egret-labs/egret-docs.git
-https://github.com/egret-labs/egret-3d.git
-https://github.com/egret-labs/egret-android-support.git
-https://github.com/egret-labs/egret-ios-support.git
+##### egret-labs(egret官方)
+https://github.com/egret-labs/egret-core.git<br>
+https://github.com/egret-labs/egret-game-library.git<br>
+https://github.com/egret-labs/egret-docs.git<br>
+https://github.com/egret-labs/egret-3d.git<br>
+https://github.com/egret-labs/egret-android-support.git<br>
+https://github.com/egret-labs/egret-ios-support.git<br>
 
-LayaBox(Laya官方)
-https://github.com/layabox/layaair.git
-https://github.com/layabox/layaair-examples.git
+##### LayaBox(Laya官方)
+https://github.com/layabox/layaair.git<br>
+https://github.com/layabox/layaair-examples.git<br>
 
-egret_gesture(Egret手势识别库)
-https://github.com/NeoGuo/egret_gesture.git
+##### egret_gesture(Egret手势识别库)
+https://github.com/NeoGuo/egret_gesture.git<br>
 
 ### AS3
-https://github.com/Gamua/Starling-Framework.git
+https://github.com/Gamua/Starling-Framework.git<br>
 
 
 
