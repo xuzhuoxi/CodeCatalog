@@ -73,6 +73,12 @@ https://github.com/layabox/layaair-examples.git<br>
 ##### egret_gesture(Egret手势识别库)
 https://github.com/NeoGuo/egret_gesture.git<br>
 
+##### Pixi.js — A 2D JavaScript Renderer
+https://github.com/pixijs/pixi.js.git<br>
+
+##### three.js
+https://github.com/mrdoob/three.js.git<br>
+
 ### AS3
 https://github.com/Gamua/Starling-Framework.git<br>
 
