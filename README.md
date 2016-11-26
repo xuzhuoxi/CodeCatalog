@@ -39,6 +39,11 @@ https://github.com/TheAmazingAudioEngine/TheAmazingAudioEngine.git<br>
 ##### XMPPFramework(OC)
 An XMPP Framework in Objective-C for Mac and iOS
 https://github.com/robbiehanson/XMPPFramework.git<br>
+##### Observable-Swift
+KVO for Swift - Value Observing and Events
+https://github.com/slazyk/Observable-Swift.git<br>
+##### Core-Data-Programming-Guide(翻译)
+https://github.com/bopang95/Core-Data-Programming-Guide.wiki.git<br>
 
 #### 其它
 ##### the-swift-programming-language-in-chinese
