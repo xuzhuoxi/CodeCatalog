@@ -93,6 +93,10 @@ https://github.com/topameng/protoc-gen-lua.git<br>
 https://github.com/mpx/lua-cjson.git<br>
 ##### UnityHello(Unity版hello world,演示了各种tolua相关的hello world级程序)
 https://github.com/woshihuo12/UnityHello.git<br>
+##### Newtonsoft.Json(Json.NET is a popular high-performance JSON framework for .NET)
+https://github.com/JamesNK/Newtonsoft.Json.git
+##### jsonfx(JsonFx v2.0 - JSON serialization framework for .NET)
+https://github.com/jsonfx/jsonfx.git<br>
 
 ### AS3
 https://github.com/Gamua/Starling-Framework.git<br>
