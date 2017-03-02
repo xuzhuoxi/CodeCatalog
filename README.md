@@ -103,6 +103,14 @@ https://github.com/jsonfx/jsonfx.git<br>
 https://github.com/Gasparfx/SoundManager.git<br>
 ##### An easy, versatile way to play and manage multiple different sounds in Unity.
 https://github.com/jconst/Unity-AudioManager.git<br>
+##### dotween A Unity C# animation engine. HOTween v2 http://dotween.demigiant.com
+https://github.com/Demigiant/dotween.git<br>
+
+### Spine
+##### spine-runtimes s2D skeletal animation runtimes for Spine. http://esotericsoftware.com/
+https://github.com/EsotericSoftware/spine-runtimes
+##### spine.ts A TypeScript API for the Spine JSON animation data format. 
+https://github.com/flyover/spine.ts
 
 ### AS3
 https://github.com/Gamua/Starling-Framework.git<br>
