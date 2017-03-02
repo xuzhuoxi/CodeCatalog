@@ -81,6 +81,8 @@ https://github.com/mrdoob/three.js.git<br>
 ##### uLua(基于cstolua的修改版uLua 【已停止更新】)
 https://github.com/jarjin/uLua.git<br>
 
+##### slua(Fastest lua binding via static code generating for Unity3D and mono.)
+https://github.com/pangweiwei/slua.git<br>
 ##### tolua(The fastest unity lua binding solution)
 https://github.com/topameng/tolua.git<br>
 ##### tolua_runtime(tolua runtime library)
@@ -97,6 +99,10 @@ https://github.com/woshihuo12/UnityHello.git<br>
 https://github.com/JamesNK/Newtonsoft.Json.git
 ##### jsonfx(JsonFx v2.0 - JSON serialization framework for .NET)
 https://github.com/jsonfx/jsonfx.git<br>
+##### Simple sound manager for Unity
+https://github.com/Gasparfx/SoundManager.git<br>
+##### An easy, versatile way to play and manage multiple different sounds in Unity.
+https://github.com/jconst/Unity-AudioManager.git<br>
 
 ### AS3
 https://github.com/Gamua/Starling-Framework.git<br>
