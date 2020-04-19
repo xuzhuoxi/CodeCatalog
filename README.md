@@ -286,6 +286,4 @@
 - [gitignore](https://github.com/github/gitignore.git)
 
   A collection of useful .gitignore templates
-  
-- 
 
