@@ -8,6 +8,7 @@
 - [swift](https://github.com/apple/swift.git)
 
   The Swift Programming Language. 
+  
   https://swift.org
   
 - [swift-package-manager](https://github.com/apple/swift-package-manager.git)
@@ -17,6 +18,7 @@
 - [swift-evolution](https://github.com/apple/swift-evolution.git)
 
   This maintains proposals for changes and user-visible enhancements to the Swift Programming Language. 
+  
   https://apple.github.io/swift-evolution/
   
 - [swift-protobuf](https://github.com/apple/swift-protobuf.git)
@@ -29,10 +31,12 @@
 
 - ExSwift
 
-  https://github.com/ayn/ExSwift.git
-  https://github.com/pNre/ExSwift.git
   A set of Swift extensions for standard types and classes.
-
+  
+  https://github.com/ayn/ExSwift.git
+  
+  https://github.com/pNre/ExSwift.git
+ 
 - [SwiftMath](https://github.com/madbat/SwiftMath.git)
 
   A math framework for Swift. Includes: vectors, matrices, complex numbers, quaternions and polynomials.
@@ -48,6 +52,7 @@
 - [FileKit]( https://github.com/nvzqz/FileKit.git)
 
   Simple and expressive file management in Swift. 
+  
   https://nvzqz.github.io/FileKit/docs/
   
 - [SpriteKit-Spring](https://github.com/ataugeron/SpriteKit-Spring.git)
@@ -57,11 +62,13 @@
 - ImagePixelFun
   
   https://github.com/kn-neeraj/ImagePixelFun.git
+  
   https://github.com/wddwycc/ImagePixelFun.git
   
 - [GPUImage](https://github.com/BradLarson/GPUImage.git)
   
   An open source iOS framework for GPU-based image and video processing 
+  
   http://www.sunsetlakesoftware.com/2012/02/12/introducing-gpuimage-framework
   
 - [Reachability.swift](https://github.com/ashleymills/Reachability.swift.git)
@@ -75,11 +82,13 @@
 - [The Amazing Audio Engine](https://github.com/TheAmazingAudioEngine/TheAmazingAudioEngine.git)
 
   Language: ObjectC
+  
   Core Audio, Cordially: A sophisticated framework for iOS audio applications, built so you don't have to.
   
 - [XMPPFramework](https://github.com/robbiehanson/XMPPFramework.git)
   
   Language: ObjectC
+  
   An XMPP Framework in Objective-C for Mac and iOS
   
 - [Observable-Swift](https://github.com/slazyk/Observable-Swift.git)
@@ -93,6 +102,7 @@
 - [the-swift-programming-language-in-chinese](https://github.com/numbbbbb/the-swift-programming-language-in-chinese.git)
 
 	中文版 Apple 官方 Swift 教程《The Swift Programming Language》 
+	
 	https://swiftgg.gitbook.io/swift/
 
 - [KongfuPanda](https://github.com/jakciehoo/KongfuPanda.git)
@@ -110,6 +120,7 @@
 - [TypeScript](https://github.com/Microsoft/TypeScript.git)
 
   TypeScript is a superset of JavaScript that compiles to clean JavaScript output. 
+  
   https://www.typescriptlang.org
 
 - [TypeScript-Handbook](https://github.com/Microsoft/TypeScript-Handbook.git)
@@ -121,6 +132,7 @@
 - [egret-core](https://github.com/egret-labs/egret-core.git)
 
   Egret is a brand new open mobile game and application engine which allows you to quickly build mobile games and apps on Android,iOS and Windows. 
+  
   http://www.egret.com
 
 - [egret-game-library](https://github.com/egret-labs/egret-game-library.git)
@@ -130,11 +142,13 @@
 - [egret-docs](https://github.com/egret-labs/egret-docs.git)
 
   Egret Document. 
+  
   http://developer.egret.com
 
 - [egret-3d](https://github.com/egret-labs/egret-3d.git)
 
   open source 3d renderer for egret 
+  
   http://developer.egret.com/cn/docs/3d
 
 - [egret-android-support](https://github.com/egret-labs/egret-android-support.git)
@@ -150,6 +164,7 @@
 - [layaair](https://github.com/layabox/layaair.git)
 
   LayaAir is an open-source 2D/3D engine. LayaAir Engine is designed for high performance games.LayaAir support TypeScript and JavaScript、ActionScript 3.0 programming language.Can develop once, publish for multi platform. 
+  
   https://www.layabox.com/
 
 - [layaair-demo](https://github.com/layabox/layaair-demo.git)
@@ -163,26 +178,31 @@
 - [Pixi.js](https://github.com/pixijs/pixi.js.git)
 
   The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer. 
+  
   http://pixijs.com
 
 - [three.js](https://github.com/mrdoob/three.js.git)
 
   JavaScript 3D library. 
+  
   https://threejs.org/
   
 - [Starling-Framework](https://github.com/Gamua/Starling-Framework.git)
 
   The Cross Platform Game Engine 
+  
   http://www.starling-framework.org
   
 - [spine-runtimes](https://github.com/EsotericSoftware/spine-runtimes.git)
 
   spine-runtimes s2D skeletal animation runtimes for Spine. 
+  
   http://esotericsoftware.com/
 
 - [spine.ts](https://github.com/flyover/spine.ts.git) 
 
   A TypeScript API for the Spine JSON animation data format. 
+  
   https://flyover.github.io/spine.ts/demo/
 
 ## Unity/C`#`
@@ -207,6 +227,7 @@
 - [LuaSocket](https://github.com/diegonehab/luasocket.git)
 
   Network support for the Lua language
+  
   http://w3.impa.br/~diego/software/luasocket/
 
 - [protoc-gen-lua](https://github.com/topameng/protoc-gen-lua.git)
@@ -216,6 +237,7 @@
 - [lua-cjson](https://github.com/mpx/lua-cjson.git)
 
   Lua CJSON is a fast JSON encoding/parsing module for Lua.
+  
   https://www.kyne.com.au/~mark/software/lua-cjson.php
   
 - [UnityHello](https://github.com/woshihuo12/UnityHello.git)
@@ -225,11 +247,13 @@
 - [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json.git)
 
   Json.NET is a popular high-performance JSON framework for .NET 
+  
   https://www.newtonsoft.com/json
 
 - [jsonfx](https://github.com/jsonfx/jsonfx.git)
 
   JsonFx v2.0 - JSON serialization framework for .NET
+  
   http://jsonfx.net/license
 
 - [SoundManager](https://github.com/Gasparfx/SoundManager.git)
@@ -243,6 +267,7 @@
 - [dotween](https://github.com/Demigiant/dotween.git)
 
   A Unity C# animation engine. HOTween v2 
+  
   http://dotween.demigiant.com
 
 
