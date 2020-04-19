@@ -204,6 +204,10 @@
   A TypeScript API for the Spine JSON animation data format. 
   
   https://flyover.github.io/spine.ts/demo/
+  
+- [headtrackr](https://github.com/auduno/headtrackr.git)
+
+  Javascript library for headtracking via webcam and WebRTC/getUserMedia
 
 ## Unity/C`#`
 
@@ -270,4 +274,18 @@
   
   http://dotween.demigiant.com
 
+
+## Other
+
+- [librealsense](https://github.com/IntelRealSense/librealsense.git)
+
+  Intel® RealSense™ SDK 
+  
+  https://www.intelrealsense.com/
+  
+- [gitignore](https://github.com/github/gitignore.git)
+
+  A collection of useful .gitignore templates
+  
+- 
 
