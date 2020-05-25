@@ -273,6 +273,11 @@
   A Unity C# animation engine. HOTween v2 
   
   http://dotween.demigiant.com
+   
+- [Unity3DTraining](https://github.com/XINCGer/Unity3DTraining)
+
+	Unity的练习项目，包含了相当多的Demo.
+
 
 
 ## Other
